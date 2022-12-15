@@ -18,13 +18,13 @@
 
     <developers>
         <developer>
-            <id>jt</id>
-            <name>John Thompson</name>
-            <email>john@springframework.guru</email>
+            <id>kb</id>
+            <name>Kaan Bilgin</name>
+            <email>nvckaan@gmail.com</email>
         </developer>
     </developers>
 
-    <inceptionYear>2018</inceptionYear>
+    <inceptionYear>2022</inceptionYear>
 
     <licenses>
         <license>
